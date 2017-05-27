@@ -1,1 +1,1 @@
-web: node ./programmeren-4/myrandomuser.js
+web: node ./MyRandomUser/myrandomuser.js
