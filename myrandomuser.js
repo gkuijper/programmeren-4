@@ -29,5 +29,5 @@ app.all('*', function(request, response) {
 })
 
 app.listen(3000, function() {
-    console.log('Server app is listening on port 3000');
+    console.log('Server app is listening on port' + port);
 })
