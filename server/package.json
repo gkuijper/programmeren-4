@@ -2,9 +2,9 @@
   "name": "myrandomuser",
   "version": "1.0.0",
   "description": "Random User Generator REST API in Node.js",
-  "main": "./MyRandomUser/server/myrandomuser.js",
+  "main": "./server/myrandomuser.js",
   "scripts": {
-    "start": "node ./MyRandomUser/server/myrandomuser.js",
+    "start": "node ./server/myrandomuser.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gabrielle",

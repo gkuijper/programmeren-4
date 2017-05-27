@@ -1,1 +1,1 @@
-web: node ./MyRandomUser/server/myrandomuser.js -p $PORT
+web: node ./server/myrandomuser.js -p $PORT
